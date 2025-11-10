@@ -1,0 +1,2 @@
+# Only ignore Git's own internal folder — NOTHING ELSE
+.git/
